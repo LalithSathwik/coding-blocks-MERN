@@ -2,12 +2,12 @@
 > MERN Stack  with MERN  + Redux  + Bootstrap 4
 
 ## Install dependencies for client
-### cd client ---> `npm install`
+### cd frontend ---> `npm install`
 
 ## Connect to your mongodb and add info in .env
 
 ## Run the frontend & server with concurrently
-### `npm run dev`
+### `node server`
 
 ## Run the Express server only
 ### `npm run server`
